@@ -39,4 +39,5 @@ bin/
 apps/core0/core0
 apps/coreX/coreX
 *.egg-info
-.vscode/
+config.bat
+node_modules
