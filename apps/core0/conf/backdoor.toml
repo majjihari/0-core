@@ -5,4 +5,4 @@ condition = "support"
 after = ["zerotier"]
 
 [startup.support.args]
-network = "1d71939404587f3c"
+network = "1f71939404587f3f"
